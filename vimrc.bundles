@@ -134,7 +134,7 @@ Plug 'kien/rainbow_parentheses.vim'
 Plug 'altercation/vim-colors-solarized'
 " molokai
 " 主题 molokai
-Plug 'tomasr/molokai'
+" Plug 'tomasr/molokai'
 
 
 " nav
@@ -661,7 +661,7 @@ call plug#end()
     let g:solarized_termtrans=1
     let g:solarized_contrast="normal"
     let g:solarized_visibility="normal"
-    " let g:solarized_termcolors=256
+    let g:solarized_termcolors=256
 " }}}
 
 " molokai {{{
